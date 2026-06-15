@@ -4,7 +4,6 @@
 - 🌱 I’m currently majoring in Bachelor of Computer Science at Universidade Federal do Paraná ...
 - 💞️ I’m looking to learn and work on Software Development ...
 - 📫 How to reach me:
-    * Instagram: https://www.instagram.com/matheusjandree/
     * Linkedin: https://www.linkedin.com/in/matheusjandre/
 
 ### My roadmap.sh
